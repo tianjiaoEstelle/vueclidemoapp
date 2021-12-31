@@ -1,4 +1,4 @@
-# vueclidemoapp
+# vue2demo
 
 ## Project setup
 ```
